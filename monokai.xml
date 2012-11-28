@@ -7,7 +7,7 @@
   <style name="CurrentLineNumber" foreground="#a0a19c" background="#3e3d32"/>
   <style name="DiffFile" foreground="#a6e22e"/>
   <style name="DiffLocation" foreground="#0000ff"/>
-  <style name="DisabledCode"/>
+  <style name="DisabledCode" foreground="#808080"/>
   <style name="Doxygen.Comment" foreground="#808080" italic="true"/>
   <style name="Doxygen.Tag" foreground="#808080" bold="true" italic="true"/>
   <style name="Field" foreground="#66d9ef"/>

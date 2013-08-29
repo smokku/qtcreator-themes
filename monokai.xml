@@ -39,15 +39,15 @@
   <style name="JsGlobalVar" foreground="#0055af" italic="true"/>
   <style name="QmlStateName" foreground="#66d9ef" italic="true"/>
   <style name="Binding" foreground="#c10000"/>
-  <style name="DisabledCode"/>
+  <style name="DisabledCode" foreground="#000000"/>
   <style name="AddedLine" foreground="#3875d7"/>
   <style name="RemovedLine" foreground="#ff0000"/>
   <style name="DiffFile" foreground="#a6e22e"/>
   <style name="DiffLocation" foreground="#0000ff"/>
-  <style name="DiffFileLine" foreground="#3e3d32" background="#ffff00"/>
-  <style name="DiffContextLine" foreground="#3e3d32" background="#afd7e7"/>
-  <style name="DiffSourceLine" foreground="#3e3d32" background="#ffdfdf"/>
-  <style name="DiffSourceChar" foreground="#3e3d32" background="#ffafaf"/>
-  <style name="DiffDestLine" foreground="#3e3d32" background="#dfffdf"/>
-  <style name="DiffDestChar" foreground="#3e3d32" background="#afffaf"/>
+  <style name="DiffFileLine" foreground="#3e3d32" background="#ffff48"/>
+  <style name="DiffContextLine" foreground="#a0a19c" background="#39474c"/>
+  <style name="DiffSourceLine" foreground="#e10000" background="#272822"/>
+  <style name="DiffSourceChar" foreground="#ff0000" background="#484739"/>
+  <style name="DiffDestLine" foreground="#00e100" background="#272822"/>
+  <style name="DiffDestChar" foreground="#00ff00" background="#484739"/>
 </style-scheme>

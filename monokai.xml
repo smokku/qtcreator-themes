@@ -14,7 +14,7 @@
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#ae81ff"/>
   <style name="String" foreground="#e6db74"/>
-  <style name="Type" foreground="#e6e5e2"/>
+  <style name="Type" foreground="#b8efe6"/>
   <style name="Local" foreground="#42cf89"/>
   <style name="Field" foreground="#66d9ef"/>
   <style name="Static" foreground="#66d9ef"/>
